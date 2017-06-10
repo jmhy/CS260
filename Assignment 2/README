@@ -1,0 +1,4 @@
+All code is written in Python.
+I used my arraylist implementation from PA1 for problems where it was required.
+For exercise 3.14, I only completed the preorder part.
+Some files have test code right after the main code. Others have a seperate test file with "test" in the name.
