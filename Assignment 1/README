@@ -1,4 +1,0 @@
-This project was written in Python.
-All source files should be kept in the same directory.
-To run the time trial via command line, enter "make time"
-To run the tests for a particular implementation, enter "make [filename]"
